@@ -14,7 +14,7 @@ function getStarted() {
         particle_count: 30,
         particle_max_count: 110,
         particle_velociti: 4,
-        line_lebg: w / 9,
+        line_lebg: 150,
         line_widht: '3'
     }
     document.querySelector('body').appendChild(canvas);
